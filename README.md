@@ -1,42 +1,49 @@
-# Hi, I'm Mongkol 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Beer&fontSize=40&fontColor=ffffff" />
+</p>
 
-Backend-leaning Fullstack Developer  
-Crafting clean code, scalable systems, and a better internet ✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Dev+%F0%9F%92%BB;Backend+Lover+%F0%9F%A7%AA;Clean+Code+is+my+language" alt="Typing SVG" />
+</p>
 
 ---
 
-### 💼 About Me
+### 👨‍💻 About Me
 
-- 🔭 Working on: Taladhub AI – market insight powered by AI  
-- 🌱 Learning: DevSecOps, GoLang  
-- 🧠 Interested in: System design, backend architecture, clean code  
-- 🛠️ Favorite stack: Node.js · Go · .NET · PostgreSQL · Redis
+- 🧠 Fullstack Developer (สาย backend ก็แน่น frontend ก็พอไหว)
+- 🔧 Stack ที่ชอบ: Java, .NET, PostgreSQL
+- 📊 สนใจด้าน: DevOps : Docker, GitHub Actions, CI/CD
 
 ---
 
 ### 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,go,dotnet,react,postgres,docker,redis,nginx,aws" />
-Node.js · GoLang · TypeScript · .NET
-PostgreSQL · Redis · Docker · GitHub Actions
-
+<img src="https://skillicons.dev/icons?i=,java,dotnet,cs,angular,react,postgres,docker,github" />
 
 ---
 
-### 📌 Projects
+### 🚀 Projects(In git)
 
-- **Taladhub AI** – Data-driven market insight system  
-- **SecureAuth** – Authentication system with 2FA & OAuth  
-- **CI/CD Playground** – Deploy everything with Docker & Actions
+| Name | Description | Stack |
+|------|-------------|-------|
+| 🧠 **LPR Service** | เว็บไซต์แสดงและจัดการระบบตรวจจับทะเบียนรถ(โปรเจกต์มหาวิทยาลัย) | `Angular`, `Java Spring Boot`, `PostgreSQL`, `Docker` |
+| ♨️ **Basic Rest API** | ทบทวนการทำ Rest API ด้วย Java Spring Boot| `Java Spring Boot`, `PostgreSQL`, `Docker` |
+------------
+Without Git
+------------
+| Name | Description | Stack |
+|------|-------------|-------|
+| 🧠 **Inventory module in ERP system** | โมดูลจัดการคลังสินค้า ทำหน้าที่ในการ รับเข้า จัดเก็บ และ นำส่ง ข้อมูลคงคลัง | `Angular`, `.NET`, `PostgreSQL`|
+| ✈️ **Mapelling** | ระบบแนะนำสถานที่ท่องเที่ยวจาดตำแหน่ง GPS| `Angular`, `.NET`, `PostgreSQL` |
+| 🛤️ **Issue Tracking Task** | ระบบสำหรับรับบันทึกจากลูกค้าและติดตามปัญหาด้วย ClickUp| `Angular`, `.NET`, `PostgreSQL` |
+
+### 📫 Contact Me
+
+- 📧 Email: m.khongphiwattana@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mongkon-khongphiwatthana-13965b2b0)
 
 ---
 
-### 📈 GitHub Stats
-
-![Mongkol30's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mongkol30&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=graywhite)
-
----
-
-### 📫 Reach Me
-
-[Email](mailto:m.khongphiwattana@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mongkon-khongphiwatthana-13965b2b0)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mongkol30&style=flat-square&color=blue" alt=""/>
+</p>
