@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there, I'm Beer 👋
+
+I'm a Full Stack Developer from Thailand 🇹🇭  
+Love building cool stuff with React, Node.js, and a pinch of magic ✨
+
+
 
 <!--
 **Mongkol30/Mongkol30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
