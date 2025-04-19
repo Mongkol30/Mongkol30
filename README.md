@@ -1,7 +1,6 @@
 # Hi there, I'm Beer 👋
 
 I'm a Full Stack Developer from Thailand 🇹🇭  
-Love building cool stuff with React, Node.js, and a pinch of magic ✨
 
 
 
