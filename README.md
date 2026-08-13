@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Backend+Engineer;Enterprise+Application+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Programmer;Backend+Software+Developer;Enterprise+Application+Developer;TAP3+Processing+Engineer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -24,38 +24,21 @@
 
 # 👨‍💻 About Me
 
-I'm a Software Developer with **2 years of professional experience** building and maintaining enterprise applications.
+I'm a **Java / Backend Software Developer** with **2+ years of professional experience** working with enterprise applications and production systems.
 
-Currently working as a **Java Programmer**, focusing on
+Currently working as a **Java Programmer**, focusing on:
 
-- ☕ Java Development
-- ⚙ Enterprise Systems
-- 🚀 Legacy System Optimization
-- 📊 Performance Improvement
-- 🔄 Workflow Automation
-- 🗄 Oracle & PostgreSQL
+* ☕ Java 8 & Spring Framework
+* 🏢 Enterprise & Legacy Applications
+* 📡 TAP3 / ASN.1 BER Processing
+* 🗄 Oracle & PL/SQL
+* 🐧 Unix / Shell Script
+* ⚙ Batch Processing 
+* 🚀 Performance Optimization
+* 🔄 Production Workflow Automation
+* ☁ Application-side Cloud Migration Support
 
-I enjoy solving complex business problems and continuously learning modern software engineering practices.
-
----
-
-# 💼 Experience
-
-### ☕ Java Programmer
-
-- Refactoring legacy Java systems
-- Performance optimization
-- Workflow automation
-- Production support
-- Database integration
-
-### 💻 Full Stack Software Developer
-
-- Inventory Management System
-- Payment System Support
-- Internal Issue Tracking
-- Requirement Analysis
-- Business Feature Development
+I enjoy troubleshooting complex production problems, improving system performance, and understanding how large-scale business processes work from application to database and batch-processing layers.
 
 ---
 
@@ -64,13 +47,33 @@ I enjoy solving complex business problems and continuously learning modern softw
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cs,ts,html"/>
+<img src="https://skillicons.dev/icons?i=java,cs,ts,js,html"/>
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs"/>
+<img src="https://skillicons.dev/icons?i=spring,dotnet"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JDBC-Backend-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge"/>
+
+</p>
+
+### Data & Integration
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TAP3-Enterprise%20Data%20Processing-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASN.1-BER-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-Data%20Processing-2E7D32?style=for-the-badge"/>
+
 </p>
 
 ### Frontend
@@ -82,43 +85,58 @@ I enjoy solving complex business problems and continuously learning modern softw
 ### Database
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=postgres"/>
-</p>
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge"/>
 
 </p>
 
-### Dev Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode,visualstudio"/>
-</p>
+### Systems & Automation
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://img.shields.io/badge/Unix%20Solaris-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Rundeck-00A3E0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JasperReports-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/rclone-4F46E5?style=for-the-badge"/>
 
 </p>
+
+### Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,visualstudio"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project                                   | Description                                                                                               |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 📡 **TAP3 Processing System**             | Enterprise TAP3 processing involving ASN.1 BER, XML transformation, validation, ETL, and batch processing |
+| ⚡ **High-Volume Processing Optimization** | Optimized 8M-record processing from ~7–10 hours to ~1–2 hours through parallel workload distribution      |
+| 💳 **Payment System**                     | Backend payment processing and transaction management                                                     |
+| 📦 **ERP Inventory System**               | Enterprise inventory management system                                                                    |
+| 🏪 **Taladhub**                           | Marketplace and market management platform                                                                |
+| 🧯 **FireSafe Dashboard**                 | React + Google Apps Script safety inspection dashboard                                                    |
 
 ---
 
 # 🌱 Currently Learning
 
-- ☁ AWS
-- 🐳 Docker
-- ⚙ GitHub Actions
-- 🚀 CI/CD
-- ☸ Kubernetes
-- 🧩 Microservices
-- 🧪 Unit Testing
-- 🔐 DevSecOps
+* ☁ Cloud Architecture
+* ⚙ GitHub Actions
+* 🚀 CI/CD
+* 🐳 Docker
+* ☸ Kubernetes
+* 🔐 DevSecOps
+* 🧩 Microservices
+* 🧪 Unit Testing
+* 🤖 AI-assisted Software Development
 
 ---
 
@@ -141,51 +159,6 @@ I enjoy solving complex business problems and continuously learning modern softw
 <img src="https://streak-stats.demolab.com?user=Mongkol30&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mongkol30&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mongkol30&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔥 Decode TAB File | High-performance TAB file processing |
-| 📦 ERP Inventory | Enterprise Inventory Management |
-| 🏪 Taladhub | Marketplace Platform |
-| 🧯 FireSafe Dashboard | React + Google Apps Script |
-| 🤖 AI Utilities | Automation & Productivity Tools |
-
----
-
-# 📚 Interests
-
-- Backend Development
-- Enterprise Architecture
-- Performance Optimization
-- Clean Code
-- Software Design
-- Cloud Computing
-- DevOps
-- Artificial Intelligence
 
 ---
 
