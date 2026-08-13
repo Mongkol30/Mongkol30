@@ -140,28 +140,6 @@ I enjoy troubleshooting complex production problems, improving system performanc
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mongkol30&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mongkol30&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mongkol30&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
